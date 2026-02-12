@@ -1,6 +1,8 @@
 # Engineering Management Playbook  
 ### Jesse Lassiter
 
+Engineering leadership guidance shaped by experience in enterprise IT operations, platform reliability, and cross-functional product collaboration.
+
 This playbook outlines leadership practices for managing engineering and technical teams within enterprise environments.
 
 It reflects principles developed across infrastructure, product, and platform leadership roles.
