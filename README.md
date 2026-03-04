@@ -1,3 +1,5 @@
+Professional Overview: https://jesselassiter.com
+
 # Engineering Management Playbook  
 ### Jesse Lassiter
 
